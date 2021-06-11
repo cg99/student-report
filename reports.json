@@ -1,0 +1,80 @@
+[
+	{
+		"grade" : "F",
+		"id" : 1,
+		"marks" : 
+		{
+			"english" : 45,
+			"history" : 45,
+			"math" : 45,
+			"science" : 45,
+			"social" : 45
+		},
+		"student" : 
+		{
+			"class" : "4",
+			"name" : "Bruce Wayne",
+			"rollNumber" : "23",
+			"roll_number" : 23
+		},
+		"total" : 225,
+		"total_marks" : 300
+	},
+	{
+		"grade" : "B",
+		"id" : 2,
+		"marks" : 
+		{
+			"english" : 88,
+			"history" : 87,
+			"math" : 92,
+			"science" : 93,
+			"social" : 79
+		},
+		"student" : 
+		{
+			"class" : "6",
+			"name" : "King",
+			"roll_number" : 22
+		},
+		"total_marks" : 300
+	},
+	{
+		"grade" : "F",
+		"id" : 1193729689,
+		"marks" : 
+		{
+			"english" : 3,
+			"history" : 3,
+			"math" : 3,
+			"science" : 3,
+			"social" : 3
+		},
+		"student" : 
+		{
+			"class" : "3",
+			"name" : "Nothing New",
+			"roll_number" : 3
+		},
+		"total_marks" : 15
+	},
+	{
+		"grade" : "C",
+		"id" : 1439383430,
+		"marks" : 
+		{
+			"english" : 34,
+			"history" : 90,
+			"math" : 45,
+			"science" : 76,
+			"social" : 90
+		},
+		"student" : 
+		{
+			"class" : "9",
+			"name" : "Lil Baby",
+			"roll_number" : 2
+		},
+		"total_marks" : 335
+	}
+]
